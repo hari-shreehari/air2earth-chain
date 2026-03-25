@@ -247,7 +247,7 @@ Open up `http://localhost:3000` and start saving the planet!
     </td>
     <td align="center">
       <a href="https://github.com/call-meRavi-SHORT-CODE">
-        <img src="https://github.com/call-meRavi-SHORT-CODE.png" width="100px;" alt="Ravikrishna" style="border-radius:50%;" /><br />
+        <img src="https://avatars.githubusercontent.com/u/139262612?v=4" width="100px;" alt="Ravikrishna" style="border-radius:50%;" /><br />
         <sub><b>@call-meRavi-SHORT-CODE</b></sub>
       </a><br />
       <sub>AI/ML Engineer</sub>
@@ -258,6 +258,13 @@ Open up `http://localhost:3000` and start saving the planet!
         <sub><b>@Shashanth27</b></sub>
       </a><br />
       <sub>Blockchain Engineer</sub>
+    </td>
+        <td align="center">
+      <a href="https://github.com/R-Shanmuga18">
+        <img src="https://ik.imagekit.io/xhelios/screenshot-2026-03-25_19-40-31.png" width="100px;" alt="Shanmuga" style="border-radius:50%;" /><br />
+        <sub><b>@R-Shanmuga18</b></sub>
+      </a><br />
+      <sub>VR Engineer</sub>
     </td>
   </tr>
 </table>
